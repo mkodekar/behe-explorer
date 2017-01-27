@@ -10,7 +10,7 @@ BeHe ExploreR is a lightweight, easy to use and fast android web browser. It was
 <li><a href="https://github.com/VladThodo/behe-explorer/releases/tag/v2.0.1">Get it on GitHub</a></li>
 <br>
 ### Community
-<li><a href="https://www.facebook.com/TodoStudios/">Check BeHe ExploreR on Facebook</a></li>
+<li><a href="https://www.facebook.com/TodoStudios/">Like us on Facebook</a></li>
 <br>
 <li><a href="https://forum.xda-developers.com/android/apps-games/app4-0-behe-explorer-internet-browser-t3313025">Official XDA thread</a></li>
 ## Contributing
