@@ -1,7 +1,6 @@
 # BeHe ExploreR
 <p><b>About</b></p>
-BeHe ExploreR it's a simple,small and minimalistic internet browser made for experimenting and learning.Anybody is welcome to participate
-to this project no matter if you are a developer,designer,translator,tester..or just a simple user reporting a bug :-).
+BeHe ExploreR is a lightweight, easy to use and fast android web browser. It was basically created for experimenting and learning, but in the meanwhile it became a fully-featured browser, that uses very few resources to run, has a nice design, and works good too.You can get it on Google Play, clicking the link below.To contribute,please read further :) Thank you for getting in touch. 
 
 
 <a href="https://play.google.com/store/apps/details?id=com.vlath.beheexplorer">
