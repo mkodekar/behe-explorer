@@ -1,8 +1,10 @@
-<b>How to contribute</b>
+# How to contribute
 <hr>
-<p>1.Fork this repository and optionally give it a star</p>
-<p>2.Commit your changes in whatever branch of the forked repo you want</p>
-<p>3.Submit a pull request to the development branch of the main repo</p>
+<p>In this secion you will find info o how to contribute,check the index below</p>
+### Index
+
+<p><a href="#">Coding</a></p>
+<a href="#">Adding translations</a>
 <hr>
 <p><b>Coding style</b></p>
 It's not exactly necessary to keep your code clean,but it helps a lot,so please do it!
