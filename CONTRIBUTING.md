@@ -4,7 +4,7 @@
 ### Index
 
 <li><a href="#coding">Coding</a></li>
-<li><a href="#creat-pull request">Pull requests</a></li>
+<li><a href="#create-pull request">Pull requests</a></li>
 <li><a href="#translations">Adding translations</a></li>
 <li><a href="#feature-requests">Feature requests</a></li>
 <li><a href="#issue-reporting">Issue reporting</a></li>
