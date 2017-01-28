@@ -4,10 +4,10 @@
 ### Index
 
 <li><a href="#coding">Coding</a></li>
-<li><a href="#pull">Pull requests</a></li>
-<li><a href="#trad">Adding translations</a></li>
-<li><a href="#feat">Feature requests</a></li>
-<li><a href="#is">Issue reporting</a></li>
+<li><a href="#creat-pull request">Pull requests</a></li>
+<li><a href="#translations">Adding translations</a></li>
+<li><a href="#feature-requests">Feature requests</a></li>
+<li><a href="#issue-reporting">Issue reporting</a></li>
 <br>
 <hr>
 <h2 id="#coding">Coding</h2>
@@ -60,7 +60,7 @@
 6. Now you can import the project in Android Studio
 <br>
 <hr>
-<h2 id="#pull">Create pull request</h2>
+<h2 id="#create-pull-request">Create pull request</h2>
 
 <p> For this,you need to have Git installed </p>
 1. We suppose that you have already downloaded and imported the project in Android Studio.
