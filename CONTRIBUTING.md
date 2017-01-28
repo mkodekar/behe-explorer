@@ -5,9 +5,9 @@
 
 <li><a href="#coding">Coding</a></li>
 <li><a href="#pull">Pull requests</a></li>
-<li><a href="#">Adding translations</a></li>
-<li><a href="#">Feature requests</a></li>
-<li><a href="#">Issue reporting</a></li>
+<li><a href="#trad">Adding translations</a></li>
+<li><a href="#feat">Feature requests</a></li>
+<li><a href="#is">Issue reporting</a></li>
 <br>
 <hr>
 <h2 id="#coding">Coding</h2>
@@ -59,7 +59,9 @@
 <br>
 6. Now you can import the project in Android Studio
 <br>
+<hr>
 <h2 id="#pull">Create pull request</h2>
+
 <p> For this,you need to have Git installed </p>
 1. We suppose that you have already downloaded and imported the project in Android Studio.
 <br>
@@ -77,13 +79,17 @@
 <br>
 <br>
 6. To create a pull request,simply go to your repo on  GitHub and compare the branch where you have pushed the updates to the development branch of this repository, addd your comment and submit.
+<br>
 <hr>
-<p><b>Issues</b></p>
+<h2 id="#trad">Translations</h2>
+To add translations,please check <a href="https://crowdin.com/project/behe-explorer">BeHe ExploreR project on Crowdin</a>.
+<br>
 <hr>
-<p>1.When writing the description of the issue please be as explicit as possible</p>
-<p>2.Check if your issue haven't alerady been submited!</p>
+<h2 id="#feat">Feature requests</h2>
+<p>Please add feature requests in the issue section,or e-mail me at vladtodosin@gmail.com</p>
+<br>
 <hr>
-<p><b>Feature requests</b></p>
-<p>1.Please post your feature requests in the issue section</p>
-<p>2.Explain what do you want/need that feature</p>
+<h2 id="#is">Issue reporting</h2>
+<p>Report any issues in the issues section of this repository</p>
+<br>
 
