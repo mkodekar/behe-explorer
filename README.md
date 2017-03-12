@@ -3,7 +3,7 @@
 ## About
 BeHe ExploreR is a lightweight, easy to use and fast android web browser. It was basically created for experimenting and learning, but in the meanwhile it became a fully-featured browser, that uses very few resources to run, has a nice design, and works good too.You can get it on Google Play, clicking the link below.To contribute,please read further :) Thank you for getting in touch.  <img src="https://travis-ci.org/VladThodo/behe-explorer.svg?branch=master"/>
 ### Download it:
-<li><a href="https://play.google.com/store/apps/details?id=com.vlath.beheexplorer">Get it on Google Play</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.vlath.beheexplorerfree">Get it on Google Play</a></li>
 <br>
 <li><a href="https://f-droid.org/repository/browse/?fdid=com.vlath.beheexplorer">Get it on F-Droid</a></li>
 <br>
